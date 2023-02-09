@@ -1,5 +1,5 @@
 import Router, { Route } from "preact-router";
-import Home from "./Home";
+import Home from "./routes/Home";
 
 function App() {
   return (

@@ -1,6 +1,6 @@
 {
   "name": "website",
-  "description": "garriga.dev website",
+  "description": "Vite Preact TailwindCSS (with DaisyUI) Typescript template",
   "author": "lyonsyonii",
   "repository": {
     "type": "git",
